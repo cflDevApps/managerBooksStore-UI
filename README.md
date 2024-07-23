@@ -1,2 +1,2 @@
 # managerBooksStore-UI
-Android app for manager book store and sells
+Wev app for manager book store and sells
